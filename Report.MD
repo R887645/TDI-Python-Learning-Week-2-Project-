@@ -74,7 +74,8 @@ From my initial exploration:
 - A small number of suppliers account for a large share of orders
 - Order costs vary significantly, with clear extremes
 - Some records contain missing values, particularly in product and quantity fields
-**[You can view my completed Wk1 project here](https://github.com/R887645/TDI-Python-Learning-Week-2-Project-/blob/main/Week2_PersonalDataOrganizer%20(1).ipynb)**
+
+**[You can view my completed Wk2 project here](https://github.com/R887645/TDI-Python-Learning-Week-2-Project-/blob/main/Week2_PersonalDataOrganizer%20(1).ipynb)**
 
 ---
 
