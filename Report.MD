@@ -91,7 +91,7 @@ As the dataset will be used throughout the program, I’m interested in explorin
 
 ## Reflection
 
-This project marked a turning point in my Python learning. While writing conditionals and loops was straightforward, handling real data—especially missing values and file validation—required more deliberate problem-solving.
+This project marked a turning point in my Python learning. While writing conditionals and loops was straightforward, handling real data, especially missing values, required more deliberate problem-solving.
 
 The most impactful part was seeing raw data inside Python and extracting insights directly from it. Counting suppliers, identifying cost extremes, and filtering records gave me a clearer picture of how analysts interact with real datasets. This experience made Python feel like a genuine analysis tool rather than just a practice language.
 
