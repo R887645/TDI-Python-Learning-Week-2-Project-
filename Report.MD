@@ -1,6 +1,6 @@
-# Week 2 – Python Control Flow & Supply Chain Dataset Exploration
+# Week 2 : Python Control Flow & Supply Chain Dataset Exploration
 
-In Week 2, I moved beyond basic Python syntax and started building logic-driven programs using real data. This project focused on control flow, reusable functions, and my first hands-on exploration of a supply chain dataset using Python.
+In this Week 2 project, I moved beyond basic Python syntax and started building logic-driven programs using real data. This project focused on control flow, reusable functions, and my first hands-on exploration of a supply chain dataset using Python.
 
 This experience made learning feel much more realistic and applicable to real-world analytics work.
 
@@ -60,7 +60,7 @@ I also extended the analysis by combining supplier reliability with order value 
 
 ## 📊 Dataset Overview
 
-The dataset contains several thousand rows with fields including:
+The dataset contains *3000* thousand rows with *16* fields, including:
 
 - `order_id`
 - `product_name`
@@ -89,7 +89,7 @@ As the dataset will be used throughout the program, I’m interested in explorin
 
 ---
 
-## ✨ Reflection
+## Reflection
 
 This project marked a turning point in my Python learning. While writing conditionals and loops was straightforward, handling real data—especially missing values and file validation—required more deliberate problem-solving.
 
@@ -98,4 +98,5 @@ The most impactful part was seeing raw data inside Python and extracting insight
 ---
 
 ![My Image Description](https://github.com/R887645/TDI-Python-Learning-Week-2-Project-/blob/main/WK%202%20Conclusion.png?raw=true)
+
 Next, I’ll be expanding this analysis in **Week 3** by using data structures like lists, dictionaries, and sets to model and analyze the supply chain network more deeply.
