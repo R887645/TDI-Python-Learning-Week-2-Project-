@@ -1,2 +1,2 @@
 # TDI-Python-Learning-Week-2-Project-
-Week 2 Project go beyond python basics, it focuses on practicing control flow with if/else statements, comparison operators, and for loops. I created functions to organize my code and avoid repetition. The highlight was loading the supply chain dataset into Python and exploring it, printing headers, counting rows, checking suppliers, and finding max/min costs. 
+Week 2 Project goes beyond python basics, it focuses on practicing control flow with if/else statements, comparison operators, and for loops. I created functions to organize my code and avoid repetition. The highlight was loading the supply chain dataset into Python and exploring it, printing headers, counting rows, checking suppliers, and finding max/min costs. 
